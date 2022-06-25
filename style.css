@@ -683,7 +683,10 @@ p {
     max-width: 600px;
     margin: auto auto auto auto;
 }
-
+.links
+{
+    padding-bottom: 20px;
+}
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
